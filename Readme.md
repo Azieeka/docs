@@ -1,3 +1,4 @@
+Hello world
 ---
 title: Quickstart
 intro: 'Get started using {% data variables.product.product_name %} to manage Git repositories and collaborate with others.'
@@ -12,6 +13,7 @@ topics:
   - Notifications
   - Accounts
 children:
+  - /readme-edite
   - /hello-world
   - /set-up-git
   - /create-a-repo
